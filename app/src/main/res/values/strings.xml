@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Single Screen</string>
+    <string name="picture_of_the_restaurant">Picture Of The Restaurant</string>
+    <string name="restaurant_name">Iskandarany</string>
+    <string name="mini_description">kebda w sgo2</string>
+    <string name="description">Sandwiches, Egyptian, Fast Food\nOpen From 10:00AM to 2:00AM</string>
+    <string name="phone_number">+20 (2) 227 098 34</string>
+    <string name="address">1 Mohamed Hassanein Heikel Street, Behind Workers University</string>
+    <string name="icon_address">icon address</string>
+    <string name="icon_web_site">icon web site</string>
+    <string name="web_site">iskandarany.com</string>
+    <string name="icon_phone">icon phone</string>
+</resources>
