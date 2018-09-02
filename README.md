@@ -1,4 +1,4 @@
-## Project : Build a Single Screen App
+## Project: Build a Single Screen App
 ### Design and implement a simple app that displays information about a small business.
 The app displays information about my favorite egyptian restaurant.
 
